@@ -1,2 +1,2 @@
-# Calorie-Tracker
-Single Page Application that tracks the users calorie and macronutrient intake. The user can see their full list of meals from the home page, add edit and delete meals, and see their total value.
+# BMR-Tracker
+Single Page Application that tracks the users BMR (target maintenance calories). The user can input their own gender, age, weight, and height to automatically calculate a value
