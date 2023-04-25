@@ -13,11 +13,11 @@ Single Page Application that tracks the users BMR (target maintenance calories).
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+-This is my first ever front-end development project where I experimented with HTML, CSS, and JS. The intended purpose was to expose me to field and gain experience for UW Informatics 442. The project taught me basic fundamentals such as:
+- HTML is the skeleton/framework, JS is the "muscle" (functional code), and CSS is the "skin" (styling)
+- how to manipulate constants, divs, forms, inputs across files
+- basic HTML syntax
+- I have prior experience with CSS and Java, making the syntax very intuitive prior to this project
 
 
 ## Technologies Used
@@ -28,8 +28,7 @@ Single Page Application that tracks the users BMR (target maintenance calories).
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+<img width="155" alt="Screenshot 2023-04-24 231203" src="https://user-images.githubusercontent.com/114948475/234189665-3d3db93f-9964-4cf0-afb5-14292b84e04d.png">
 
 
 
