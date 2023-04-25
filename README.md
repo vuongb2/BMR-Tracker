@@ -4,7 +4,6 @@ Single Page Application that tracks the users BMR (target maintenance calories).
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
 * [Screenshots](#screenshots)
 * [Usage](#usage)
 * [Project Status](#project-status)
@@ -27,12 +26,6 @@ Single Page Application that tracks the users BMR (target maintenance calories).
 - JS
 
 
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
@@ -41,14 +34,11 @@ List the ready features here:
 
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
+The user may input their own details into the various queries on the page to view their ideal calorie intake target
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _complete_. This is my first ever personal front-end project and experience with HTML/JS.
 
 
 ## Room for Improvement
