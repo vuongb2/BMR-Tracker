@@ -6,12 +6,10 @@ Single Page Application that tracks the users BMR (target maintenance calories).
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
-* [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
 <!-- * [License](#license) -->
 
 
@@ -24,9 +22,9 @@ Single Page Application that tracks the users BMR (target maintenance calories).
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- HTML
+- CSS
+- JS
 
 
 ## Features
@@ -40,11 +38,6 @@ List the ready features here:
 ![Example screenshot](./img/screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
-
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
 
 
 ## Usage
@@ -62,23 +55,16 @@ Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+- The BMR calculator is not fully accurate as it requires the users BMI and activity level in its calculations, but provides a good general idea.
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
+- Add activity level capabilities and a BMI slider
+
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- This project was based on [this tutorial](https://www.youtube.com/watch?v=JhRvYQseY1A).
 
-
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
 
 
 <!-- Optional -->
