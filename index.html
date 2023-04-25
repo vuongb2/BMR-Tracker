@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- everything -->
+    <div class="bmr-calculator">
+        <h2>BMR Calculator</h2>
+        <div class="controls">
+            <form>
+
+                <!-- age component -->
+               <h3>AGE</h3> 
+               <input type="text" id="age" value = "28">
+
+               <!-- gender component -->
+                <div class="gender">
+                    <h3>GENDER</h3>
+                    <input type="radio" id="male"
+                     value="male" name="gender" checked/>
+                     <label for="male">Male</label>
+                     <input type="radio" id="female"
+                     value="female" name="gender"/>
+                     <label for="female">Female</label>
+                </div>
+
+                <!-- height component -->
+                <div class="height">
+                    <h3>HEIGHT</h3>
+                    <input type="text" id="height"
+                     value = "180" />
+                     <div class="unit">cm</div>
+                </div>
+
+                <!-- weight component -->
+                <div class="weight">
+                    <h3>WEIGHT</h3>
+                    <input type="text" id="weight"
+                    value="65">
+                    <div class="unit">kg</div>
+                </div>
+
+            </form>
+        </div>
+
+        <!-- results -->
+        <div class="result">
+            <button class="calculate-btn">Calculate</button>
+
+            <div class="result-message">
+                <span class=calories> 1,640 </span>Calories/day
+            </div>
+
+            <!-- error message -->
+            <div class="error-message">
+                <p>Please enter all values correctly</p>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>
